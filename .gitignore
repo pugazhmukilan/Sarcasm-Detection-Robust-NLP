@@ -23,3 +23,6 @@ Thumbs.db
 # Temporary files
 *.bak
 *.swp
+
+*.h5
+*.json
